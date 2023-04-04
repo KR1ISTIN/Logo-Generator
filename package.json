@@ -1,0 +1,26 @@
+{
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "hello": "echo hello friend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KR1ISTIN/Logo-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KR1ISTIN/Logo-Generator/issues"
+  },
+  "homepage": "https://github.com/KR1ISTIN/Logo-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
+  }
+}
