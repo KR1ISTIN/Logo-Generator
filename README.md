@@ -23,13 +23,13 @@ Have Node installed, Clone down repo, npm i, then run node index.js
 
 Type node index.js, follow the prompts, then a svg file will be generated
 <br>
-<a href='https://drive.google.com/file/d/1E0IoDCXBaqa_kg6W7_eSM_zw2MymLlEz/view'>Link to Video Demo</a>
-<iframe src="https://drive.google.com/file/d/1E0IoDCXBaqa_kg6W7_eSM_zw2MymLlEz/preview" width="640" height="480"></iframe>
+<a href='https://drive.google.com/file/d/1E0IoDCXBaqa_kg6W7_eSM_zw2MymLlEz/view'>Link to Video Demo</a><br>
+[Untitled_ Apr 4, 2023 10_41 PM.webm](https://user-images.githubusercontent.com/121457179/229984101-c110d25a-f0fd-4d55-812c-6382e995452b.webm)
 
 Sample of Output:
 <br>
-<img src='/Users/kristindesalme/Desktop/utsa-homework/Logo-Generator/demo.png'>
-    
+<img width="308" alt="Screen Shot 2023-04-04 at 10 42 59 PM" src="https://user-images.githubusercontent.com/121457179/229984057-fddbe886-534c-47a2-a627-12b95db50ead.png">
+
 ## Credits
 
 N/A
