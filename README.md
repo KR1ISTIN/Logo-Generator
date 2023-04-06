@@ -1,5 +1,5 @@
 # Logo-Generator
-<a href=''></a>
+
 
 ## Description
 
