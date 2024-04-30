@@ -1,5 +1,5 @@
 # Logo-Generator
-<a href=''></a>
+
 
 ## Description
 
@@ -26,10 +26,11 @@ Type node index.js, follow the prompts, then a svg file will be generated
 <a href='https://drive.google.com/file/d/1E0IoDCXBaqa_kg6W7_eSM_zw2MymLlEz/view'>Link to Video Demo</a>
 
 
+
 Sample of Output:
 <br>
-<img src='/Users/kristindesalme/Desktop/utsa-homework/Logo-Generator/demo.png'>
-    
+<img width="308" alt="Screen Shot 2023-04-04 at 10 42 59 PM" src="https://user-images.githubusercontent.com/121457179/229984057-fddbe886-534c-47a2-a627-12b95db50ead.png">
+
 ## Credits
 
 N/A
