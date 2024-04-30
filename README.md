@@ -24,7 +24,7 @@ Have Node installed, Clone down repo, npm i, then run node index.js
 Type node index.js, follow the prompts, then a svg file will be generated
 <br>
 <a href='https://drive.google.com/file/d/1E0IoDCXBaqa_kg6W7_eSM_zw2MymLlEz/view'>Link to Video Demo</a>
-<iframe src="https://drive.google.com/file/d/1E0IoDCXBaqa_kg6W7_eSM_zw2MymLlEz/preview" width="640" height="480"></iframe>
+
 
 Sample of Output:
 <br>

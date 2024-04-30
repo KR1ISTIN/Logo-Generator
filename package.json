@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/KR1ISTIN/Logo-Generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.4",
-    "jest": "^29.5.0"
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }

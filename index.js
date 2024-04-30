@@ -1,7 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const {Circle, Square,Triangle}= require('./lib/shapes.js'); // classes for the shapes
-const {create} = require('./lib/document.js')
+const {Circle, Square,Triangle}= require('./src/shapes.js'); // classes for the shapes
+const {create} = require('./src/document.js')
 
 
 

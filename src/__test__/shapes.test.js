@@ -1,5 +1,5 @@
 
-const {Circle, Square,Triangle, Shapes}= require('./shapes');
+const {Circle, Square,Triangle, Shapes}= require('../shapes');
 
 describe('Shapes', () => {
     describe('setText', () => {
