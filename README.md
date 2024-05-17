@@ -1,4 +1,5 @@
 # Logo-Generator
+This project was designed to generate a simple svg file that takes in user input based on text,shape, and colors. Logo-Generator was a project built for practice envolving classes to acheive OOP, Jest to test the classes. 
 
 
 ## Description
